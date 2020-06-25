@@ -3,10 +3,9 @@
 	text-align: center;
 }
 .container{
-background-color: lightgray}
-.img{
-	background-color: lightgoldenrodyellow;
+background-color: lightgray
 }
+body{background-color: lightgoldenrodyellow;}
 #tit{
 	color: blue;
 	border: solid 2px #ADD8E6;
