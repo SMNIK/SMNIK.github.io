@@ -8,9 +8,12 @@
 }
 .text span{
 	color: black;
-	display: inline-block;
-	margin-left: 130px;
-	margin-right: 40px;
+  	word-spacing: 3px;
+  	letter-spacing: 1px;
+        width: 200px;
+        height: 1px;
+        margin: 40px;
+        display: inline-block;
 }
 .bod h3, p, ul{
 	margin-left: 20px;
