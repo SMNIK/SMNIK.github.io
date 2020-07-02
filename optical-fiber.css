@@ -10,10 +10,10 @@
 	color: black;
   	word-spacing: 3px;
   	letter-spacing: 1px;
-        width: 31%;
-        height: 1px;
-        margin: 10px;
-        display: inline-block;
+   	width: 31%;
+   	height: 1px;
+   	margin: 10px;
+   	display: inline-block;
 }
 .bod h3, p, ul{
 	margin-left: 20px;
